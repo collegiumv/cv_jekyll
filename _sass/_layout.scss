@@ -5,16 +5,15 @@
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     height: 56px;
-
     // Positioning context for the mobile navigation icon
     position: relative;
+	margin-bottom: 20px;
 }
 
 .site-title {
     font-size: 26px;
     line-height: 56px;
     letter-spacing: -1px;
-    margin-bottom: 0;
     float: left;
 
     &,
@@ -233,4 +232,20 @@
             font-size: 18px;
         }
     }
+}
+
+/**
+ * Custom
+ */
+
+.irc{
+	color: #008000;
+}
+
+.icon--irc{
+	width: 16px;
+	text-align: center;
+	display: inline-block;
+	color:#828282;
+	font-weight:700;
 }
