@@ -246,6 +246,19 @@
 	width: 16px;
 	text-align: center;
 	display: inline-block;
-	color:#828282;
-	font-weight:700;
+	color: #828282;
+	font-weight: 700;
+}
+
+.right{
+	float:right;
+	line-height:80px;
+	@include media-query($on-palm) {
+		display:none;
+	}
+}
+
+.right a{
+	color: #424242;
+	text-decoration:none;
 }
