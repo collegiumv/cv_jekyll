@@ -7,7 +7,7 @@
     height: 56px;
     // Positioning context for the mobile navigation icon
     position: relative;
-	margin-bottom: 20px;
+    margin-bottom: 20px;
 }
 
 .site-title {
@@ -239,26 +239,26 @@
  */
 
 .irc{
-	color: #008000;
+    color: #008000;
 }
 
 .icon--irc{
-	width: 16px;
-	text-align: center;
-	display: inline-block;
-	color: #828282;
-	font-weight: 700;
+    width: 16px;
+    text-align: center;
+    display: inline-block;
+    color: #828282;
+    font-weight: 700;
 }
 
 .right{
-	float:right;
-	line-height:80px;
-	@include media-query($on-palm) {
-		display:none;
-	}
+    float:right;
+    line-height:80px;
+    @include media-query($on-palm) {
+        display:none;
+    }
 }
 
 .right a{
-	color: #424242;
-	text-decoration:none;
+    color: #424242;
+    text-decoration:none;
 }
