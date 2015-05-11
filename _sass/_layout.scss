@@ -2,7 +2,6 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $background-color;
     border-bottom: 2px solid $grey-color-light;
     height: 56px;
     // Positioning context for the mobile navigation icon
@@ -27,18 +26,24 @@
 }
 
 #navbar {
-    background-color: #039;
-    color: white;
-    width: 100%;
+    color: #111;
     height: 20px;
-    border-radius: 5px;
     padding: 4px;
-    float: left;
+	position: relative;
+	float: left;
+	margin-top: 55px;
+	margin-left: -130px;
 }
 
 #navbar a {
-    color: white;
-    padding-left: 15px;
+    color: #111;
+    padding-left: 8px;
+    padding-right: 8px;
+	border-right: 1px solid #777;
+}
+
+#navbar a:last-child{
+	border-right: none;
 }
 
 .site-nav {
