@@ -22,6 +22,25 @@
     }
 }
 
+#header_image {
+    padding: 10px;
+}
+
+#navbar {
+    background-color: #039;
+    color: white;
+    width: 100%;
+    height: 20px;
+    border-radius: 5px;
+    padding: 4px;
+    float: left;
+}
+
+#navbar a {
+    color: white;
+    padding-left: 15px;
+}
+
 .site-nav {
     float: right;
     line-height: 56px;
