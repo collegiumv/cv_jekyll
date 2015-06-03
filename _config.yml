@@ -10,5 +10,9 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://collegiumv.org" # the base hostname & protocol for your site
 github_username: collegiumv 
 
+paginate: 5
+paginate_path: "/news/p:num"
+excerpt_separator: <!--more-->
+
 # Build settings
 markdown: kramdown
