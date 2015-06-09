@@ -9,17 +9,17 @@ The University of Texas at Dallas commitment to excellence in teaching and resea
 
 ##Council
 
-The council is elected from denizens of the lounge each year to plan events, handle CV involvement with on campus activities, and to generally assist in the operation of the lounge.  The council may be contacted in person in the lounge, or by email to any of the council members.  The current CV council is listed below in no particular order after the speaker:
+The council is elected from denizens of the lounge each year to plan events, handle CV involvement with on campus activities, and to generally assist in the operation of the lounge.  The council may be contacted in person in the lounge, or by email to any of the council members.  The current CV council is listed below:
 
   * Ben Reed - Speaker of Council
+  * Alex Zahabizadeh
+  * Andrew Su
   * Farah Wazir
   * Hailey Lewis
-  * Tra Ngo
-  * Rebecca Barsotti
-  * Vy Nguyen
-  * Andrew Su
-  * Alex Zahabizadeh
   * Keene Chin
+  * Rebecca Barsotti
+  * Tra Ngo
+  * Vy Nguyen
 
 
 ##Admins
