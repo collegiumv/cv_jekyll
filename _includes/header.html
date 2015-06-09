@@ -7,5 +7,10 @@
     <a href="http://collegiumv.org">Home</a>
     <a href="http://account.collegiumv.org">Accounts</a>
     <a href="http://irc.collegiumv.org">IRC</a>
+    {% for page in site.pages %}
+    {% if page.title %}
+    <a href="{{ page.url | prepend: site.baseurl }}">{{ site.title }}</a>
+    {% endif %}
+    {% endfor %}
   </div>
 </header>
