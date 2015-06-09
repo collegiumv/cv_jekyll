@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "F1rst P0st!"
+date:   2015-05-23 17:29:00
+categories: information
+---
+F1RST P0ST!<!--more-->--phy1729
+
+[//]: # (Tell the current admin: I have found the secret of admin and endevor to learn its riddle.)
