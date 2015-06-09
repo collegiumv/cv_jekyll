@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to UTD and Collegium V"
-date:   2015-05-15 22:00:00
+date:   2015-05-30 22:00:00
 categories: information summer
 ---
 Welcome to UTD and Collegium V, as you make your way to orientation, here are some helpful tips for your trip. <!--more-->
@@ -52,6 +52,5 @@ Finally, the CV Systems Administrators would like to provide the following:
   * Join IRC, cool people talk about cool stuff and occasionally give out leads to internships.
   * The lounge is full of great people (hopefully you're picking up the theme here...).
 
----
 
 Hopefully this advice will bring you a smoother transition to life at UTD as well as keep you from making some of the same mistakes that were made by those who came before you.
