@@ -29,10 +29,10 @@ body {
 
 @media screen and (max-width: 800px) {
     body {
-	max-width: -webkit-calc(800px - (30px));
-	max-width: calc(800px - (30px));
-	padding-right: 15px;
-	padding-left: 15px;
+        max-width: -webkit-calc(800px - (30px));
+        max-width: calc(800px - (30px));
+        padding-right: 15px;
+        padding-left: 15px;
     }
 }
 
@@ -231,13 +231,13 @@ body:after, .site-footer:after {
 
 @media screen and (max-width: 600px) {
     .site-nav {
-	position: absolute;
-	top: 9px;
-	right: 30px;
-	background-color: #fdfdfd;
-	border: 1px solid #e8e8e8;
-	border-radius: 5px;
-	text-align: right;
+        position: absolute;
+        top: 9px;
+        right: 30px;
+        background-color: #fdfdfd;
+        border: 1px solid #e8e8e8;
+        border-radius: 5px;
+        text-align: right;
     }
     
     .site-nav .menu-icon {
@@ -336,7 +336,7 @@ body:after, .site-footer:after {
 
 @media screen and (max-width: 800px) {
     .post-title {
-	font-size: 36px;
+        font-size: 36px;
     }
 }
 
@@ -396,7 +396,7 @@ body:after, .site-footer:after {
 
 @media screen and (max-width: 600px) {
     .right {
-	display: none;
+        display: none;
     }
 }
 
