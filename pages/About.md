@@ -38,3 +38,5 @@ Keene Chin, Rebecca Barsotti, Tra Ngo, Vy Nguyen
 The CV network is unique at UTD in that it is entirely student managed.  The admins are known mostly by logon identities, and so that is how they are listed below.  The admins may be found on IRC, and in the event that IRC is down, they may be found in the lounge fixing IRC.
 
   * maldridge
+  * m\_wynn
+  * dinoocch
