@@ -1,0 +1,74 @@
+.menu > li.over-logo {
+    display:inline;
+}
+
+li.over-logo > a {
+    padding: 0;
+    margin-left: -80px;
+    margin-top: -20px;
+    margin-bottom: -60px;
+}
+
+.top-bar-right > ul > li > a {
+    font-size:95%
+}
+
+.no-js .top-bar {
+    display: none;
+}
+
+.menu > li > a{
+    padding: 0.7rem 0.9rem;
+}
+
+.menu > li > a.menu-title{
+    padding: 0;
+    display: inline-block;
+    font-size: 130%;
+    margin-bottom: -15%;
+    margin-top: -15%;
+}
+
+@media screen and (min-width: 40em) {
+    .no-js .top-bar {
+        display: block;
+    }
+
+    .no-js .title-bar {
+        display: none;
+    }
+}
+
+@media screen and (max-width:73em) and (min-width: 40em) {
+    .row{
+        margin-left: 70px;
+        margin-right: 70px;
+    }
+}
+
+a {
+    color: #2a7ae2;
+}
+a:hover, a:focus {
+    color: #2e5b8a;
+}
+
+/* Mobile-specific menu customizations */
+@media (max-width: 40em){
+    .title-bar, .top-bar, .top-bar ul {
+        background-color: #2e5b8a;
+    }
+
+    .top-bar ul > li > a {
+        color: #ffffff;
+    }
+
+    .top-bar ul > li:hover {
+        background-color: #3e6b9a;
+    }
+
+    .top-bar ul > li > a:hover {
+        color: #e0e0e0;
+    }
+}
+

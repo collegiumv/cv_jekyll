@@ -1,5 +1,5 @@
 # Site settings
-title: CollegiumV
+title: Collegium V
 description: > # this means to ignore newlines until "baseurl:"
     The Collegium V Honors College provides a four-year honors
     experience that encourages intellectually creative, inquisitive,
@@ -9,6 +9,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://collegiumv.org" # the base hostname & protocol for your site
 github_username: collegiumv
+facebook_group: 337454759652070
 
 gems: [jekyll-paginate]
 
@@ -16,5 +17,9 @@ paginate: 5
 paginate_path: "/news/p:num"
 excerpt_separator: <!--more-->
 
-# Build settings
 markdown: kramdown
+
+# announcement: >
+#         <h5>Lounge Maintenance Tonight</h5>
+#         <p>Printing in the lounge may be unavailable from 2AM to 4AM tonight while we perform maintenance on the print server</p>
+#         <a href="#">Where can I print?</a>

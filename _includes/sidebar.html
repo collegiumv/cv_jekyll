@@ -1,0 +1,19 @@
+<div class="columns show-for-large large-4 right" data-sticky-container>
+    <div class="sticky" data-sticky data-anchor="blog-posts">
+        <div class="primary callout">
+            <h3>Connect with CV</h3>
+            {% if site.facebook_group %}
+                <h6><a href="https://facebook.com/groups/{{ site.facebook_group }}/">Facebook</a></h6>
+                <p>Be the first to hear about all the latest events, the activites of other CVers, and ways to get involved.</p>
+                <hr/>
+            {% endif %}
+            {% if site.github_username %}
+                <h6><a href="https://github.com/{{ site.github_username }}/">Github</a></h6>
+                <p>Check out the code that runs our network, add your own contributions, and see what we're up to.</p>
+                <hr/>
+            {% endif %}
+            <a href="#">IRC</a><br/>
+            <p>Hang out with other CVers in our digital lounge.</p>
+        </div>
+    </div>
+</div>
