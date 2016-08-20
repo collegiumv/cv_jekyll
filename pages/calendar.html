@@ -1,0 +1,29 @@
+---
+title: Calendar
+layout: page
+---
+<link rel="stylesheet" href="/css/fullcalendar.min.css" />
+<script src="/js/vendor/jquery.js"></script>
+<script src="/js/vendor/moment.min.js"></script>
+<script src="/js/fullcalendar.min.js"></script>
+
+<div class="row">
+    <div id="calendar" style="overflow:visible"></div>
+</div>
+
+<script type="text/javascript">
+ $("#calendar").fullCalendar({
+     eventSources: [
+	 {
+	     url: '/data/calendar/admin.json',
+	     color: 'darkblue',
+	     textColor: 'white'
+	 },
+	 {
+	     url: '/data/calendar/council.json',
+	     color: 'darkgreen',
+	     textColor: 'white'
+	 }
+     ]
+ });
+</script>

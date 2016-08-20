@@ -72,3 +72,11 @@ a:hover, a:focus {
     }
 }
 
+/* Calendar */
+.fc-day-grid-event .fc-content {
+    white-space: unset!important;
+}
+
+.fc-scroller {
+    overflow-y: hidden!important;
+}
