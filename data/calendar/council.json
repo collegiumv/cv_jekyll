@@ -16,5 +16,11 @@
 	"start": "2016-09-02 21:30:00",
 	"end": "2016-09-02 23:59:00",
         "url": "/information/2016/08/22/movie-night.html"
+    },
+    {
+	"title": "Birthday Cakes",
+	"start": "2016-09-02 14:00:00",
+	"end": "2016-09-02 17:00:00",
+        "url": "/information/2016/08/31/birthday-cakes.html"
     }
 ]
