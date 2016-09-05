@@ -10,6 +10,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://collegiumv.org" # the base hostname & protocol for your site
 github_username: collegiumv
 facebook_group: 337454759652070
+permalink: pretty
 
 gems: [jekyll-paginate]
 
