@@ -33,5 +33,70 @@
 	"title": "Fall BBQ",
 	"start": "2016-09-11 17:00:00",
 	"end": "2016-09-11 20:00:00"
+    },
+    {
+	"title": "BSB Roundtable",
+	"start": "2016-09-28 12:00:00",
+	"end": "2016-09-28 13:00:00",
+        "url": "/roundtable/2016/09/21/bsb-roundtable/"
+    },
+    {
+	"title": "Alumni Workshop",
+	"start": "2016-09-30 12:00:00",
+	"end": "2016-09-30 13:00:00",
+        "url": "/workshop/2016/09/26/alumni-workshop/"
+    },
+    {
+	"title": "Research Workshop",
+	"start": "2016-10-04 19:00:00",
+	"end": "2016-10-04 20:00:00",
+        "url": "/workshop/2016/09/30/student-research/"
+    },
+    {
+	"title": "Special Lecture",
+	"start": "2016-10-04 19:00:00",
+	"end": "2016-10-04 20:00:00",
+        "url": "/events/2016/09/30/special-lecture/"
+    },
+    {
+	"title": "Guest Speaker",
+	"start": "2016-10-06 08:15:00",
+	"end": "2016-10-06 09:45:00",
+        "url": "/events/2016/09/30/senator-roundtable/"
+    },
+    {
+        "title": "Round Table",
+        "start": "2016-10-07 12:00:00",
+        "end": "2016-10-07 13:00:00"
+    },
+    {
+        "title": "Study Abroad Workshop",
+        "start": "2016-10-11 12:00:00",
+        "end": "2016-10-11 13:00:00"
+    },
+    {
+        "title": "Thompson Fund Tickets",
+        "start": "2016-10-12 08:00:00",
+        "end": "2016-10-12 17:00:00"
+    },
+    {
+        "title": "Round Table",
+        "start": "2016-10-14 12:00:00",
+        "end": "2016-10-14 13:00:00"
+    },
+    {
+        "title": "Round Table",
+        "start": "2016-10-21 12:00:00",
+        "end": "2016-10-21 13:00:00"
+    },
+    {
+        "title": "Honors Night Out",
+        "start": "2016-10-26 15:00:00",
+        "end": "2016-10-26 23:59:00"
+    },
+    {
+        "title": "Honors Night Out",
+        "start": "2016-10-28 15:00:00",
+        "end": "2016-10-28 23:59:00"
     }
 ]
