@@ -67,5 +67,11 @@
         "start": "2016-10-14 22:00:00",
         "end": "2016-10-14 23:59:00",
         "url": "/events/2016/10/14/pancake-night/"
+    },
+    {
+        "title": "Public Forum",
+        "start": "2016-10-17 16:00:00",
+        "end": "2016-10-17 17:00:00",
+        "url": "/events/2016/10/17/public-forum/"
     }
 ]
