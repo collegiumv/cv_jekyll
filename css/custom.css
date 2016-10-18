@@ -80,3 +80,9 @@ a:hover, a:focus {
 .fc-scroller {
     overflow-y: hidden!important;
 }
+
+/* Center images */
+.center-image {
+    margin: 0 auto;
+    display: block;
+}
