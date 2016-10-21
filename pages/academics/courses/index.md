@@ -3,7 +3,7 @@ title: CV Courses
 layout: page
 ---
 
-Collegium V offers many courses that are found no where else in the University.  A listing of selected courses is provided below.x
+Collegium V offers many courses that are found no where else in the University.  A listing of selected courses is provided below.
 
   * [Game Theory](game-theory/)
   * [Readings in Criminal Minds and Lethal Crimes](readings-in-criminal-minds-and-lethal-crimes/)
