@@ -11,3 +11,5 @@ Collegium V offers many courses that are found no where else in the University. 
   * [Readings in Our Senses, Our Selves](readings-in-our-senses-our-selves/)
   * [Readings in Shakespeare on Film](readings-in-shakespeare-on-film/)
   * [Seminar in Aging, Mind, and Society](seminar-in-aging-mind-and-society/)
+  * [Health and Illness in Global and Cross-National Perspective](health-and-illness-in-global-and-cross-national-perspective/)
+  * [Introduction to the Humanities (Dr. Towner)](humanities-towner/)
