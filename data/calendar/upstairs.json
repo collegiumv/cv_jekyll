@@ -85,9 +85,20 @@
         "end": "2016-10-14 13:00:00"
     },
     {
+        "title": "Study Abroad Information Session",
+        "start": "2016-10-19 16:00:00",
+        "end": "2016-10-19 17:00:00"
+    },
+    {
         "title": "Round Table",
         "start": "2016-10-21 12:00:00",
         "end": "2016-10-21 13:00:00"
+    },
+    {
+        "title": "Alumni Workshop",
+        "start": "2016-10-21 14:00:00",
+        "end": "2016-10-21 15:00:00",
+        "url": "/workshop/2016/10/12/alumni-workshop/"
     },
     {
         "title": "Honors Night Out",
