@@ -13,3 +13,4 @@ Collegium V offers many courses that are found no where else in the University. 
   * [Seminar in Aging, Mind, and Society](seminar-in-aging-mind-and-society/)
   * [Health and Illness in Global and Cross-National Perspective](health-and-illness-in-global-and-cross-national-perspective/)
   * [Introduction to the Humanities (Dr. Towner)](humanities-towner/)
+  * [Themes and Ideas in American History](history-heinz/)
