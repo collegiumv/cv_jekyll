@@ -89,5 +89,17 @@
         "title": "Halloween Party",
         "start": "2016-10-31 19:00:00",
         "end": "2016-10-31 23:59:59"
+    },
+    {
+        "title": "Build Cardboard Boat",
+        "start": "2016-11-10 18:00:00",
+        "end": "2016-11-10 21:59:59",
+        "url": "/events/2016/11/09/building-cardboard-boat/"
+    },
+    {
+        "title": "Cardboard Boat Regatta Race",
+        "start": "2016-11-11 18:00:00",
+        "end": "2016-11-11 20:00:00",
+        "url": "/events/2016/11/09/cardboard-boat-race/"
     }
 ]
