@@ -4,7 +4,7 @@ layout: default
 <div class="row">
     <div class="large-12 columns">
         <h1 class="post-title">{{ page.title }}</h5>
-        <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+        <p class="post-meta">Posted: {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
         <article class="post-content">
             {{ content }}
         </article>
