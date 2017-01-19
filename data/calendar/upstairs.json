@@ -129,15 +129,38 @@
         "url": "/hno/2017/01/11/beethovenhno/"
     },
     {
+        "title": "China Info",
+        "start": "2017-01-18 15:30:00",
+        "end": "2017-01-18 23:59:00",
+        "url": "/events/2017/01/18/china/"
+    },
+    {
+        "title": "Italy Info",
+        "start": "2017-01-19 16:00:00",
+        "end": "2017-01-19 23:59:00",
+        "url": "/events/2017/01/18/italy/"
+    },
+    {
         "title": "DC Deadline",
-        "start": "2017-01-16 12:00:00",
-        "end": "2017-01-16 23:59:00",
+        "start": "2017-01-19 16:00:00",
+        "end": "2017-01-19 23:59:00",
         "url": "/events/2017/01/04/dctrip/"
+    },
+    {
+        "title": "Dr. Fey Roundtable",
+        "start": "2017-01-27 12:00:00",
+        "end": "2017-01-27 23:59:00",
+        "url": "/roundtable/2017/01/18/roundtable/"
     },
     {
         "title": "Texas Theatre",
         "start": "2017-02-04 21:00:00",
         "end": "2017-02-04 23:59:00",
         "url": "/events/2017/01/11/txtheatre/"
+    },
+    {
+        "title": "Archer Deadline",
+        "start": "2017-02-15 23:59:00",
+        "end": "2017-02-15 23:59:10"
     }
 ]
