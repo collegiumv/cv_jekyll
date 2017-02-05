@@ -153,14 +153,34 @@
         "url": "/roundtable/2017/01/18/roundtable/"
     },
     {
+        "title": "Special Event",
+        "start": "2017-01-31 16:00:00",
+        "end": "2017-01-31 23:59:00"
+    },
+    {
         "title": "Texas Theatre",
         "start": "2017-02-04 21:00:00",
         "end": "2017-02-04 23:59:00",
         "url": "/events/2017/01/11/txtheatre/"
     },
     {
+        "title": "Thomsen Fund",
+        "start": "2017-02-08 08:15:00",
+        "end": "2017-02-08 23:59:00"
+    },
+    {
+        "title": "Dr. Littlefield Roundtable",
+        "start": "2017-02-08 15:00:00",
+        "end": "2017-02-08 23:59:00"
+    },
+    {
         "title": "Archer Deadline",
         "start": "2017-02-15 23:59:00",
         "end": "2017-02-15 23:59:10"
+    },
+    {
+        "title": "Dr. Dussor Roundtable",
+        "start": "2017-02-24 12:00:00",
+        "end": "2017-02-24 23:59:10"
     }
 ]
