@@ -27,18 +27,3 @@ health professions and institutions, and how these professions and
 institutions are responding to recent economic, social, political, and
 technological trends; and 4) ethical values and dilemmas found within
 the American health care system.
-
-Anticipated course requirements tentatively include:
-
-  * 10-12 short quizzes covering material from the assigned readings
-(40% of the final course grade)
-
-  * Four take home essays of approximately four pages each (40% of the
-final course grade)
-
-  * One 5-8 page paper and class presentation dealing with a social
-and/or ethical issue in health care (20% of the final course grade).
-
-While there is no formal grade for class participation, regular
-attendance and participation in class discussion (or lack thereof)
-will be taken into account in determining the final course grade.
