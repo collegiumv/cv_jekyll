@@ -18,4 +18,3 @@ layout: page
 
   * Students will be able to integrate a wide class of functions
     including trigonometric, rational and algebraic functions.
-  
