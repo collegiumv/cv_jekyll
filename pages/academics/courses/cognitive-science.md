@@ -1,12 +1,13 @@
 ---
-title: Cognitive Science | CGS 2301
+title: COGNITIVE SCIENCE | CGS 2301
 layout: page
 ---
 
-#### Cognitive Science
+#### COGNITIVE SCIENCE
 
 #### Instructor: Dr. Alice O’Toole
 
 #### CGS 2301
 
-An introduction to the study of the brain and behavior from the point of view of cognitive science, including approaches from psychology, philosophy, neuropsychology, and computational modeling. Includes phenomena involving sensory systems, memory, decision making, language, and communication.
+This course is an introduction to the study of the brain and behavior from the point of view of cognitive science, including approaches from psychology, philosophy, neuropsychology, and
+computational modeling. Phenomena involving sensory systems, memory, decision-making, language, and communication are discussed.
