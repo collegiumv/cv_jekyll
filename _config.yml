@@ -20,6 +20,9 @@ excerpt_separator: <!--more-->
 
 markdown: kramdown
 
+exclude:
+  - scripts
+
 # announcement: >
 #         <h5>Lounge Maintenance Tonight</h5>
 #         <p>Printing in the lounge may be unavailable from 2AM to 4AM tonight while we perform maintenance on the print server</p>
