@@ -1,0 +1,97 @@
+NATS 2333	Energy, Water, and the Environment		Dr. Stephanie Taylor
+
+
+An introduction to the impacts that humans have on the environment, with emphasis on impacts resulting from energy and water use. The course is designed for students who are not seeking a technical major and who wish to enhance their use of science and engineering principles and techniques in making decisions affecting both their own use of energy and water and use by the United States and the world. The course includes discussions of ways to ameliorate and/or adapt to the impacts. 
+
+Energy, Water, and the Environment addresses the issues of human impact on the environment and how we, as stewards, can make sound technical decisions about strategies to ameliorate those effects. Topic will include --from the perspectives including energy supply, water resources, and the environment -- global climate change, energy and water basics and conservation, fossil fuels, nuclear energy, and alternative sources of energy (solar, wind, hydroelectric, biomass). A major part of a student’s grade will be based on a project designed to educate individuals about “Energy, Water, and the Environment”.
+
+
+
+HONS 3199	Crime in Sports					Dr. Alex Piquero
+
+
+This course examines crime in the world of sports. Readings and discussion will involve examining the nature of crime across major sports, the correlates associated with offending and victimization, and policy responses toward athletes who commit crime both on and off the field.
+
+
+
+ARTS 1301	Exploration of the Arts					Dr. Thomas Riccio
+
+
+This interdisciplinary course will focus on the development of the student’s artistic perception and expression. Through a variety of exercises, readings, viewings, and assignments, the student will gain a better understanding of their resources, skills, and abilities as it applies to their artistic appreciation and expression. The course will survey current artistic trends, movements, expressions, and their historical antecedents as to locate the student in a larger historical and cultural context. The course will explore and analyze how space, time, image, text, and gesture are used and communicate in various art forms.
+
+
+
+HUMA 1301	Exploration of the Humanities				Dr. Ashley Barnes
+
+
+This class introduces you to the methods and questions that connect the various fields of study in the humanities. Our thematic focus will be on love: stories about its varieties, accounts of its pleasures and sorrows, portrayals of how it pulls people together and drives them apart. In our investigation, we’ll crisscross from literature to film to philosophy to history to music and elsewhere. By the end of the semester, you should be able to explain the value of the humanities both for your own education and for the culture at large.
+
+
+
+PHYS 2422	Physics II					Dr. Fan Zhang
+
+
+This course is designed to introduce the concepts in electricity, magnetism, and
+electromagnetic waves, and eventually show how they are in fact simply
+different facets of the same electromagnetic force, one of the four known
+fundamental forces of nature. Here is a list of the basic topics that will be covered
+in this course.
+
+• Electric Charges, Forces and Fields
+• Coulomb’s Law
+• Gauss’s Law
+• Electric Potential Energy
+• Capacitance and Dielectrics
+• Electric Current and Resistance
+• Direct Current Circuits
+• Magnetic Fields and Forces
+• Lorentz Force Law for Charged Particles
+• Electromagnetic Induction
+• Faraday’s Law
+• Lenz’s Law
+• Maxwell’s Equations
+• Electromagnetic Waves
+
+At a slightly higher level, the course may go broader and deeper to introduce or understand several topics that are close to the research forefront. Here is a list of them: plasma, ferro-magnetism, ferroelectricity, superconductivity, quantum Hall effects, magnetic monopoles in spin ice, toric code and quantum spin liquids, Hawking radiation, gamma ray burst, synthetic gauge fields, etc.
+
+This is a calculus-based course on basic concepts in electricity, magnetism, and electromagnetic waves. The course is a deeper, broader, more interacting version of PHYS2326 in terms of its pace, scope, difficulty, and the calculus to be used. While the math is a natural and necessary ingredient, it is the physics that is at the heart of this course. We pursue the following objectives for students: (i) to learn specific laws of electromagnetism and their simple applications, (ii) to be comfortable with using vector calculus in physics problems, (iii) to develop and strengthen problem-solving skills, and (iv) “to guess at the wonderful, simple, but very strange patterns beneath them all, and then to experiment to check again whether we made the right guess” (R. Feynman). 
+As a result of the course, students will be expected to be able to (i) explain basic concepts of charges, currents, fields, forces, and waves, (ii) apply basic laws to calculate electromagnetic fields and their effects, (iii) analyze simple electric circuits in direct-current and quasi-steady-state regimes, (iv) understand the Maxwell equations and their consequences, and, most importantly, (v) be confident with physics and math and appreciate their beauty!
+
+
+
+HONS 3199	Perspectives on Environmental Sustainability 		Dr. Jill Duquaine-Watson
+
+
+This course uses an interdisciplinary approach to explore varied perspectives on environmental sustainability and conservation. In addition to examining the historical roots of environmentalism and key arguments for conservation of natural resources and sustainability, we will also investigate contemporary debates about the environment (such as ecotourism and the protection of endangered species) in order to better understand how such debates are formed at the intersection of economic, political, legal, and social interests. 
+
+
+
+SOC 3315	Socio-Behavioral Science for Medicine			Dr. Karen de Olivares
+
+
+By instituting a new section of the Medical College Admission Test (MCAT), the Association of American Medical Colleges (AAMC) elevates the importance for the premedical student of understanding psychological and sociocultural determinants of health.  Other initiatives in the healthcare field, such as the Blue Zones ProjectTM, direct attention to behaviors deemed desirable for healthy living.  In this class we’ll consider constructs and theories people have used to explain individual human motivation and group behaviors, placing specific emphasis on patient compliance.
+
+
+
+HIST 2330	Themes & Ideas in American History			Dr. Whitney Stewart
+
+
+As the great sage and cultural icon Madonna once noted: “we are living in a material world, and I am a material girl.” What’s that to do with a history class? The deeper meaning behind this seemingly straightforward statement parallels the fundamental tenets of a field of historical study known as material culture: the insistence that objects are prevalent and essential to past societies; the recognition that humans are an active part of their material worlds; and the understanding that culture expresses itself through material objects.
+
+Material culture involves the investigation of artifacts to understand the beliefs of a community or society at a particular moment. In this course, we will examine how things—artworks, objects, landscapes, buildings—serve as primary evidence about American society and culture, past and present. Through readings, discussion, and direct observation (including site visits to local cultural organizations like the Dallas Museum of Art), we will explore themes in American history through the material remnants left behind.
+
+
+
+ECS 3390	Professional & Technical Communication		Dr. Carie King
+
+
+Expands students’ professional and team communication skills and strategies in technical contexts. Integrates writing, speaking and group communication by developing and presenting technical information to different audiences. Written assignments focus on creating professional technical documents, such as proposals, memos, abstracts, reports and letters. Presentation assignments emphasize planning, preparing and delivering dynamic, informative and persuasive presentations. Attendance at first class mandatory.
+
+
+
+HONS 3199	Contemporary Topics in Business			Dr. Marilyn Kaplan
+
+
+We are what we eat: The Agriculture Industrial Complex
+
+We will be looking at the mega-firm agricultural business in the US, the use of GMO, patenting of DNA, and government subsidies, and the effects on the health of the US population.
