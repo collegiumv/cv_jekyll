@@ -5,7 +5,7 @@ layout: page
 
 #### MOCK TRIAL
 
-#### Instructor: Tony Seagroves
+#### Instructor: Barbara Kirby
 
 #### PSCI 4v66
 

@@ -14,7 +14,7 @@ Who gets sick, what they do about it, and what kind of treatment they
 receive are the result of an interplay of behavioral, cultural, and
 social forces. In this course we will examine how behavioral, social,
 and cultural factors affect health and illness. We will also address a
-number of ethic issues in health care decision making. This class will
+number of ethical issues in health care decision making. This class will
 involve lectures by the instructor, presentations on the readings by
 students, seminar discussion, and occasional guest lectures and media
 presentations.

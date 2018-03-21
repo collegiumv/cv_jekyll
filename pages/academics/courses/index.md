@@ -5,6 +5,33 @@ layout: page
 
 Collegium V offers many courses that are found no where else in the University.  A listing of selected courses is provided below.
 
+2018 Fall
+  * [American Popular Culture - Dr. Erin Smith] (ams-2300hn1-dr-erin-smith/)
+  * [State and Local Government - Dr. Euel Elliott] (govt-2306-dr-euel-elliott/)
+  * [State and Local Government - Dr. Douglas Dow] (govt-2306-dr-douglas-dow/)
+  * [State and Local Government - Dr. Edward Harpham] (govt-2306-dr-edward-harpham/)
+  * [Introduction to Neuroscience - Eva LaDow] (nsc-3361-eva-ladow/)
+  * [Neuropharmacology - Dr. Eva LaDow] (nsc-3361-dr-eva-ladow/)
+  * [Approaches to Peace - Dr. Paul F. Diehl] (psci-4396-dr-paul-f-diehl/)
+  * [Introduction to Sociology - Dr. Sheryl Skaggs] (soc-1301-dr-sheryl-skaggs/)
+  * [Health and Illness - Dr. Richard Scotch] (soc-4372-dr-richard-scotch/)
+  * [Readings in Medicine, Politics & Philosophy - Dr. Edward Harpham] (hons-3199hn1-dr-edward-harpham/)
+  * [Readings in Foreign Film & Political Culture - Dr. Douglas Dow] (hons-3199hn2-dr-douglas-dow/)
+  * [Readings in Science Fiction - Christina Thompson] (hons-3199h12-christina-thompson/)
+  * [Readings in Memory - Dr. Eva LaDow] (hons-3199-dr-eva-ladow/)
+  * [Readings in Faulkner’s Short Stories - Dr. Theresa M. Towner] (hons-3199-dr-theresa-m-towner/)
+  * [Untold Histories of Chemistry and Physics - Mihaela Stefan] (hons-3199h15-mihaela-stefan/)
+  * [Energy, Water, and the Environment - Dr. Stephanie Taylor] (nats-2333-dr-stephanie-taylor/)
+  * [Crime in Sports - Dr. Alex Piquero] (hons-3199-dr-alex-piquero/)
+  * [Exploration of the Arts - Dr. Thomas Riccio] (arts-1301-dr-thomas-riccio/)
+  * [Exploration of the Humanities - Dr. Ashley Barnes] (huma-1301-dr-ashley-barnes/)
+  * [Physics II - Dr. Fan Zhang] (phys-2422-dr-fan-zhang/)
+  * [Perspectives on Environmental Sustainability - Dr. Jill Duquaine-Watson] (hons-3199-dr-jill-duquaine-watson/)
+  * [Socio-Behavioral Science for Medicine - Dr. Karen de Olivares] (soc-3315-dr-karen-de-olivares/)
+  * [Themes & Ideas in American History - Dr. Whitney Stewart] (hist-2330-dr-whitney-stewart/)
+  * [Professional & Technical Communication - Dr. Carie King] (ecs-3390-dr-carie-king/)
+  * [Contemporary Topics in Business - Dr. Marilyn Kaplan] (hons-3199-dr-marilyn-kaplan/)
+
 2017 Fall
   * [Basis of Evolution](basis-of-evolution/)
   * [Calculus I (Ramakrishna)](calculus-1-ramakrishna/)
