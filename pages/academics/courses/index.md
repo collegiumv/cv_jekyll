@@ -17,6 +17,7 @@ Collegium V offers many courses that are found no where else in the University. 
   * [Health and Illness - Dr. Richard Scotch](soc-4372-dr-richard-scotch/)
   * [Readings in Medicine, Politics & Philosophy - Dr. Edward Harpham](hons-3199hn1-dr-edward-harpham/)
   * [Readings in Foreign Film & Political Culture - Dr. Douglas Dow](hons-3199hn2-dr-douglas-dow/)
+  * [Readings in the Internet & Public Policy - Dr. Ravi Prakash](hons-3199hn3-dr-ravi-prakash/)
   * [Readings in Science Fiction - Christina Thompson](hons-3199h12-christina-thompson/)
   * [Readings in Memory - Dr. Eva LaDow](hons-3199-dr-eva-ladow/)
   * [Readings in Faulkner’s Short Stories - Dr. Theresa M. Towner](hons-3199-dr-theresa-m-towner/)
@@ -31,6 +32,7 @@ Collegium V offers many courses that are found no where else in the University. 
   * [Themes & Ideas in American History - Dr. Whitney Stewart](hist-2330-dr-whitney-stewart/)
   * [Professional & Technical Communication - Dr. Carie King](ecs-3390-dr-carie-king/)
   * [Contemporary Topics in Business - Dr. Marilyn Kaplan](hons-3199-dr-marilyn-kaplan/)
+  * [Creating Poetry](crwt-3351-dr-julia-leverone)
 
 2017 Fall
   * [Basis of Evolution](basis-of-evolution/)
