@@ -1,11 +1,11 @@
 ---
-title: CALCULUS II | MATH 2419.HN1
+title: Calculus II | MATH 2419.HN1
 layout: page
 ---
 
-#### CALCULUS II
+#### Calculus II
 
-#### Instructor: Mieczslaw Dabkowski
+#### Instructor: Dr. Mieczslaw Dabkowski 
 
 #### MATH 2419.HN1
 

@@ -1,12 +1,12 @@
 ---
-title: Moot Court | PSCI 4v67.HN1
+title: Moot Court | PSCI 4V67
 layout: page
 ---
 
 #### Moot Court
 
-#### Instructor:
+#### Instructor: Dr. Barbara Kirby
 
-#### PSCI 4v67.HN1
+#### PSCI 4V67
 
-UT-Dallas Moot Court is one of the top undergraduate Moot Court programs in the country. Moot Court is an intellectually rigorous exercise in appellate advocacy, and develops the critical thinking, logical reasoning, and public speaking skills essential for law school success. Students are given a hypothetical case and about 20-25 actual precedents with which to construct both petitioner and respondent oral arguments on Constitutional Law issues to present to the Supreme Court of the United States.  Classroom sessions will be used to develop, practice, and refine those oral arguments before guest judges. Students will then compete, in teams, against other schools in tournaments around the country. There will also be occasional quizzes to determine students’ knowledge of the record and case law.
+This course examines a hypothetical case which contains two constitutional issues. Based on approximately 20 actual precedents, students are expected to prepare arguments supporting both the petitioner and respondents on each constitutional issue. Students compete in tournaments against advocates from other universities. May be repeated for credit (12 semester credit hours maximum). Instructor consent required.

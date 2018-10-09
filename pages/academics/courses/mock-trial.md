@@ -1,12 +1,12 @@
 ---
-title: MOCK TRIAL | PSCI 4v66
+title: Mock Trial | PSCI 4V66
 layout: page
 ---
 
-#### MOCK TRIAL
+#### Mock Trial
 
-#### Instructor: Barbara Kirby
+#### Instructor: Tony Seagroves
 
-#### PSCI 4v66
+#### PSCI 4V66
 
-Mock Trial examines a hypothetical case. Students will learn the Rules of Evidence and will simulate an actual trial as attorneys and/or witnesses. Students compete with Mock Trial teams from other universities at regional and national tournaments.
+Examines a hypothetical case. Students will learn the Rules of Evidence and will simulate an actual trial with attorneys and witnesses. Students compete with Mock Trial teams from other universities at regional and national tournaments. May be repeated for credit (6 semester credit hours maximum). Instructor consent required.
