@@ -22,6 +22,8 @@ Collegium V offers many courses that are found no where else in the University. 
   * [Exploring Research - Dr. Christina Thompson](exploring-research/)
   * [Honey Bees and Society - Dr. Christina Thompson](honey-bees-and-society/)
   * [Readings in Faulkner’s Short Stories - Dr. Theresa M. Towner](hons-3199-dr-theresa-m-towner/)
+  * [Readings in Consciousness - Dr. Anastasia Bobilev](hons-3199-dr-bobilev/)
+  * [Readings in Sensation and Experience - William Marks](hons-3199-experience/)
   * [Addicted Brain - Dr. Eva LaDow](readings-in-the-addicted-brain/)
   * [Masterpieces of Chinese Literature: The Tang Dynasty - Dr. Michael Farmer](masterpieces-of-chinese-literature-the-tang-dynasty/)
   * [Power of Narrative - Dr. Robert Schwab](power-of-narrative/)
