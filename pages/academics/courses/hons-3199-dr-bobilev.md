@@ -1,5 +1,5 @@
 ---
-title: Readings in Consciousness: The Mind and The Brain | HONS 3199
+title: Readings in Consciousness - The Mind and The Brain | HONS 3199
 layout: page
 ---
 
