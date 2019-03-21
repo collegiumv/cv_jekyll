@@ -5,7 +5,7 @@ layout: page
 
 #### Innocence Project
 
-#### Instructor:  Nathalie Roetzel
+#### Instructor:  Natalie Roetzel
 
 #### PSCI 4396.HN1
 
