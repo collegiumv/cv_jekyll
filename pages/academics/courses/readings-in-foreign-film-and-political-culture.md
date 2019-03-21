@@ -7,7 +7,7 @@ layout: page
 
 #### Instructor: Dr. Douglas Dow
 
-#### HONS 3199.HN2
+#### HONS 3199
 
 Film is the newest of the art forms, and the most popular style of entertainment of the past century. Movies are one of the most powerful tools for shaping popular tastes and beliefs, including perceptions and expectations concerning the government, the workplace, religion, and the family. The influence of cinema on politics is high; so too is the impact of external political, social and economic forces on movies and the film industry. This class is designed as an introduction to domestic and world cinema, and an exploration of the complex dynamics between films and politics.
 

@@ -7,7 +7,7 @@ layout: page
 
 #### Instructor:  Theresa Towner
 
-#### HONS 3199.H17
+#### HONS 3199
 
 Famed for his work as a novelist, the Mississippi-born William
 Faulkner was an equally accomplished writer of short fiction.  He once

@@ -7,7 +7,7 @@ layout: page
 
 #### Instructor:  Christina Thompson
 
-#### HONS 3199.H11
+#### HONS 3199
 
 "Without bees humans will die within 4 years." – Albert Einstein.
 While this may or may not be true, there is a very complex

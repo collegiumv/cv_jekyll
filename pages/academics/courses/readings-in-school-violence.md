@@ -7,7 +7,7 @@ layout: page
 
 #### Instructor:  Nadine Connell
 
-#### HONS 3199.H14
+#### HONS 3199
 
 Issues related to school violence and victimization, especially with
 regards to school shootings, are common discussion points in the

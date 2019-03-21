@@ -7,7 +7,7 @@ layout: page
 
 #### Instructor:  Mihaela Stefan
 
-#### HONS 3199.H15
+#### HONS 3199
 
 Spectacular discoveries at the end of the 19th century and the
 beginning of 20th century advanced the knowledge in the fields of

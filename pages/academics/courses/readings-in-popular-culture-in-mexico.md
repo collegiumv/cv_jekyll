@@ -7,7 +7,7 @@ layout: page
 
 #### Instructor:  Monica Rankin
 
-#### HONS 3199.H19
+#### HONS 3199
 
 This course will examine Mexican history through the lens of popular
 culture in the post-independence era with particular attention to the

@@ -7,7 +7,7 @@ layout: page
 
 #### Instructor: Dr. Edward Harpham
 
-#### HONS 3199.HN1
+#### HONS 3199
 
 This honors readings course will involve a close reading of a select group of texts related to medicine, politics and philosophy.  Upon completing the class, students will be able to:
     1) Identify a number of different genres of literature related to the field of medicine.

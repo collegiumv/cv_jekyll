@@ -7,7 +7,7 @@ layout: page
 
 #### Instructor: Ravi Prakash
 
-#### HONS3199.HN3
+#### HONS3199
 
 Just a few decades back, Usenet provided total anonymity and privacy
 where people could adopt any persona and interact with others. These

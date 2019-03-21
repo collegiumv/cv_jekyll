@@ -7,7 +7,7 @@ layout: page
 
 #### Instructor:  Van Miller
 
-#### HONS 3199.H13
+#### HONS 3199
 
 Medical careers and their consequences - personal, financial,
 spiritual, social, legal.  The good, the bad, and the ugly of training

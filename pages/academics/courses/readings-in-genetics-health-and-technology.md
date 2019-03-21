@@ -7,7 +7,7 @@ layout: page
 
 #### Instructor: Punya Navaratnarajah
 
-#### HONS3199.HN5
+#### HONS3199
 
 
 The full sequence of the human genome was first published in 2001.
