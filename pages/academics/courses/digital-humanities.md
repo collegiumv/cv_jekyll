@@ -1,5 +1,5 @@
 ---
-title: Themes and Ideas in American History: The Digital Humanities | HIST 2330
+title: Themes and Ideas in American History, The Digital Humanities | HIST 2330
 layout: page
 ---
 
