@@ -7,18 +7,18 @@ Collegium V offers many courses that are found nowhere else in the University.  
 
 
 2019 Fall
-  * [American Studies for the 21st Century - Dr. Erin Smith]()
+  * [American Studies for the 21st Century - Dr. Erin Smith](ams-2341)
   * [Exploration of the Arts - Dr. Thomas Riccio](arts-1301-dr-thomas-riccio/)
   * [Creating Short Stories - Dr. Manuel Luis Martinez]()
-  * [Principles of Macroeconomics - Dr. William Grover]()
+  * [Principles of Macroeconomics - Dr. William Grover](macroeconomics-grover)
   * [Social Issues and Ethics in CSE - Dr. Douglas Dow]()
   * [Professional & Technical Communication - Dr. Christopher Ryan](ecs-3390-dr-ryan/)
   * [Understanding Film - Dr. Adrienne McLean](film-2332)
   * [American National Government - Dr. Thomas Brunell]()
   * [State and Local Government - Dr. Douglas Dow](govt-2306-dr-douglas-dow/)
-  * [State and Local Government - Dr. Edward Harpham (LAHC)]()
+  * [State and Local Government - Dr. Edward Harpham (LAHC)](state-and-local-govt-lahc)
   * [State and Local Government - Dr. Euel Elliott](govt-2306-dr-euel-elliott/)
-  * [Digital Humanities - Dr. Ben Wright]()
+  * [Digital Humanities - Dr. Ben Wright](digital-humanities)
   * [Readings in Medicine, Politics & Philosophy - Dr. Edward Harpham](readings-in-medicine-politics-and-philosophy/)
   * [Readings in Foreign Film & Political Culture - Dr. Douglas Dow](readings-in-foreign-film/)
   * [Readings in the Internet & Public Policy - Dr. Ravi Prakash](readings-internet-public-policy/)

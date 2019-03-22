@@ -5,7 +5,7 @@ layout: page
 
 #### Principles of Microeconomics
 
-#### Instructor: Dr. Willian Grover
+#### Instructor: Dr. William Grover
 
 #### ECON 2302
 
